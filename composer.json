@@ -1,0 +1,17 @@
+{
+    "name": "foxcreator/home-work_advanced-php",
+    "autoload": {
+        "psr-4": {
+            "Foxcreator\\HomeWorkAdvancedPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "foxcreator",
+            "email": "foxcreatorg@gmail.com"
+        }
+    ],
+    "require": {
+        "larapack/dd": "^1.1"
+    }
+}

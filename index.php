@@ -14,9 +14,9 @@ use App\Http\Controllers\MainController;
 use App\Http\Controllers\Admin\DashboardController;
 use App\Http\Controllers\Admin\OrdersController;
 use App\Http\Helpers\ImageHelper;
-use App\Models\Order;
-use App\Models\Product;
-use App\Models\User;
+use Models\Order;
+use Models\Product;
+use Models\User;
 
 echo '<pre>';
 $order = new Order();

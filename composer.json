@@ -2,7 +2,8 @@
     "name": "foxcreator/home-work_advanced-php",
     "autoload": {
         "psr-4": {
-        "App\\": "App/"
+        "App\\": "App/",
+        "Models\\": "App/Models/"
         }
     },
     "authors": [
